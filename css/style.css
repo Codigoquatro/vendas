@@ -15,7 +15,7 @@ body{
 }
 
 .cards{
-	margin-top:70px;
+	margin-top:130px;
 	justify-content: center;
 }
 
@@ -62,27 +62,46 @@ body{
 /* CARD BACKGROUNDS */
 
 .azul {
-  background: radial-gradient(#1fe4f5, #3fbafe);
+  background-image: linear-gradient(to bottom, #2596be, #063970);
 }
 
 .rosa {
-  background: radial-gradient(#fbc1cc, #fa99b2);
+  background-image: linear-gradient(to bottom, #80391e, #086051);
 }
 
 .azul-escuro {
-  background: radial-gradient(#76b2fe, #b69efe);
+  background-image: linear-gradient(to bottom, #063970, #ffff66);
 }
 
 .verde {
-  background: radial-gradient(#60efbc, #58d5c9);
+  background-image: linear-gradient(to bottom, #2596be, #108606);
 }
 
 .roxo {
-  background: radial-gradient(#f588d8, #c0a3e5);
+  background-image: linear-gradient(to bottom, #80391e, #5a033e);
 }
 
 .vermelho {
-  background: radial-gradient(#f58888, #e32424);
+  background-image: linear-gradient(to bottom, #5a033e, #E2102F);
+}
+
+.amarelo {
+  background-image: linear-gradient(to bottom, #ffcc00, #ff8800);
+}
+
+.laranja {
+  background-image: linear-gradient(to bottom, #ff8800, #cc6600);
+}
+
+.azul-claro {
+  background-image: linear-gradient(to bottom, #63b8ff, #2596be);
+}
+
+.azul-marinho {
+  background-image: linear-gradient(to bottom, #063970, #001f3f);
+}
+.cinza {
+  background-image: linear-gradient(to bottom, #999999, #333333);
 }
 
 

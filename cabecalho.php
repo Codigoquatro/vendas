@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Delivery Interativo</title>
+	<title>Vendas</title>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<!-- Mobile Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<!-- Site Metas -->
-	<meta name="keywords" content="delivery interativo, pedir sanduíche" />
-	<meta name="description" content="Temos sanduíches de qualidade.." />
-	<meta name="author" content="Hugo Vasconcelos" />
+	<meta name="keywords" content="sistema web,site,aplicativo" />
+	<meta name="description" content="sistema web,site,mobile.." />
+	<meta name="author" content="Código Quatro" />
 
-	<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="img/logoedson-removebg-preview.ico" type="image/x-icon">
 
 
 	<!-- CSS only -->
